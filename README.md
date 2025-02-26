@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Machine Learning :
 
 Welcome to my **Machine Learning** repository! This collection showcases various machine learning algorithms and projects I've worked on. Dive into the code, experiment with the algorithms, and feel free to contribute!
 
