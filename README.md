@@ -69,10 +69,6 @@ Deep learning models included in this repository:
 * **Convolutional Neural Networks (CNNs)** – applied to datasets like MNIST
 * **Autoencoders** – for unsupervised feature learning
 
-Implemented using:
-
-* **TensorFlow**
-* **Keras**
 
 ---
 
@@ -80,8 +76,8 @@ Implemented using:
 
 Combining multiple models to improve prediction accuracy:
 
-* **Bagging** – reduces variance
-* **Boosting** – reduces bias
+* **Bagging** – reduces variance - Multiple models are trained independently on different subsets of the data, and their predictions are averaged (for regression) or voted on (for classification).- This helps reduce variance and prevents overfitting.
+* **Boosting** – reduces bias -  Models are trained sequentially, with each new model focusing on correcting the errors made by the previous ones. The final prediction is a weighted combination of all models, improving accuracy.
 
 ---
 
