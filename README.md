@@ -1,7 +1,3 @@
-Here’s a professional and well-structured `README.md` section that classifies the different types of machine learning algorithms and techniques used in your GitHub repository [`MachineLearning`](https://github.com/itzshivam1999/MachineLearning/tree/main). You can copy and paste this into your repo’s README:
-
----
-
 # 📊 Machine Learning Techniques and Algorithm Classification
 
 This repository demonstrates a wide range of machine learning algorithms and techniques, organized into various categories based on the type of learning and methodology used.
@@ -107,8 +103,7 @@ This repository contains complete end-to-end implementations of various real-wor
 
 ---
 
-> 📌 **Note:** Each algorithm is implemented from scratch or with the help of standard ML libraries such as Scikit-learn, TensorFlow, and Keras, making this a great resource for understanding the underlying principles of each method.
+> 📌 **Note:** Each algorithm is implemented from scratch or with the help of standard ML libraries making this a great resource for understanding the underlying principles of each method.
 
 ---
 
-Let me know if you'd like to include badges, visualizations, or setup instructions as well.
